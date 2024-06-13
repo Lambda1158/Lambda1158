@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ---
 # **🤔About myself**
 
-- **I'm 25 years old and a Full Stack Dev. I began studying programing in high school and since then it has become my passion.**
+- **I'm a Web Developer and a systems engineering student. I began studying programing in high school and since then it has become my passion.**
 
--  **🔭 Currently i'm working on a project alongside a skilled group of people i've met in Henry's bootcamp**
+-  **🔭I'm Looking for a It job while finishing my degree.**
 
-- **🌱 I’m currently learning Python C# MVC .NET**
+- **🌱 I’m currently learning Python , NestJs and MongoDB.**
 
 
 
@@ -75,8 +75,8 @@ Here are some ideas to get you started:
         <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
     </td>
       <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+        <span>Tailwind</span><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDML5CFq70Y9FJ52YnyCjfdyUA3g9B6is_jA&s">
       </td>
       <td width="25%" align="center">
         <span>PostgreSQL</span><br><br>
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
       </td>
       <td width="25%" align="center">
         <span>Express</span><br><br>
-        <img height="64px" src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667">
+        <img height="64px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">
       </td>
     </tr>
      <tr valign="top">
@@ -93,12 +93,12 @@ Here are some ideas to get you started:
         <img height=65px src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png"> 
     </td>
       <td width="25%" align="center">
-        <span>C#</span><br><br>
-        <img height="64px" src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667">
+        <span>Next.js</span><br><br>
+        <img height="64px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png">
       </td>
       <td width="25%" align="center">
-        <span>.NET</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png">
+        <span>Mongo DB</span><br><br>
+        <img height="64px" src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png">
       </td>
       <td width="25%" align="center">
         <span>npm</span><br><br>
@@ -113,21 +113,30 @@ Here are some ideas to get you started:
 
 ---
 ## **Proyects**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+### GustoGourmet
+<img height=200px width=400px src="./assets/recipes.photos/landing page.png"/>
+<img height=200px width=400px src="./assets/recipes.photos/general.png"/>
+<img height=200px width=400px src="./assets/recipes.photos/detail.png"/>
+<img height=200px width=400px src="./assets/recipes.photos/create recipe.png"/>
+
+### Hitalent
+<img height=200px width=400px src="./assets/ecomerce.photos/home.png"/>
+<img height=200px width=400px src="./assets/ecomerce.photos/profile.png"/>
+
+### Portafolio
+<img height=200px width=400px src="./assets/portafolio.photos/landing.png"/>
+<img height=200px width=400px src="./assets/portafolio.photos/menu.png"/>
+<img height=200px width=400px src="./assets/portafolio.photos/about.png"/>
+<img height=200px width=400px src="./assets/portafolio.photos/card.png"/>
+
 ### Weather app
-<img height=500px width=1000px src="./assets/weather app.png"/>
-
-### Recipe app
-
+<img height=200px width=600px src="./assets/weather.photos/weather app.png"/>
 
 ---
 ## **Contact Me!**
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoherrera1158@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-herrera-aa10b6201/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoherrera1158/)
   
-
 ---
-
-
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
