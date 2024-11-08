@@ -123,6 +123,8 @@ Here are some ideas to get you started:
 ### Hitalent
 <img height=200px width=400px src="./assets/ecomerce.photos/home.png"/>
 <img height=200px width=400px src="./assets/ecomerce.photos/profile.png"/>
+<img height=200px width=400px src="./assets/ecomerce.photos/carrito.png"/>
+<img height=200px width=400px src="./assets/ecomerce.photos/question.png"/>
 
 ### Portafolio
 <img height=200px width=400px src="./assets/portafolio.photos/landing.png"/>
